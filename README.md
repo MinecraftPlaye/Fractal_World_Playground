@@ -18,5 +18,6 @@ any explanation of what the code does is helpfull. ;)
 * Writing tests
 * Code review
 * Document the code with JavaDoc and normal comments!
+* All pull-requests have to be based on the 'Development'-Branch. 
 
 **This project is also for learning purpose! Any code which is not documented will get removed!**
